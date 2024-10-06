@@ -1,0 +1,10 @@
+{
+  "domain": "inmet",
+  "name": "HA InMet Alerts",
+  "codeowners": ["@sigrist"],
+  "config_flow": true,
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/hello_world/",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
